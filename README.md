@@ -48,3 +48,8 @@ insighthire/
 <br>├── rag_pipeline.py # Resume-JD scoring logic</br>
 <br>├── README.md</br>
 <br>└── testenv/ # Virtual environment</br>
+
+## Output
+<img width="1911" height="1079" alt="Screenshot 2026-02-19 132403" src="https://github.com/user-attachments/assets/ded29fdd-accc-481d-9ca6-bd613ace336c" />
+<img width="1919" height="1079" alt="Screenshot 2026-02-19 132439" src="https://github.com/user-attachments/assets/f270c18e-2cdd-401b-9e27-310058665205" />
+
